@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileFiap</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="integrantes">Andrey Malfara Oliveira - 81988 \n David Lim Bok Siok - 82685 \n Leonardo Bonalume Lebre - 83087 \n Murillo Albano - 81823 \n Victor Bassetto - 82422</string>
+</resources>
